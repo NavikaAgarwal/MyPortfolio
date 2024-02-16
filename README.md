@@ -1,18 +1,18 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-# 𝐇i👋 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am [Lakshya Singh](https://king-11.vercel.app)
+# 𝐇ello 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am [Navika Agarwal](https://king-11.vercel.app)
 
-## 🙋🏽‍♂️About Me
+## About Me
 
-- 👨‍💼 I am currently a Software Engineer at @Microsoft in the Azure Core Compute Organization
-- 🏫 I did a Bachelors in Computer Science and Engineering from the Indian Institute of Technology (BHU), Varanasi
-- 🍀 I have a keen interest in Open Source, Application Development, Network Security and Natural Language Processing.
-- 🔭 I’m an Open Source Contributor at [Validating Lightning Signer](https://vls.tech/posts/vls-beta/)
-- 🌱 I’m currently learning **Rust** 🦀 and **Azure Kubernetes Service** ☁️
-- 👯 I’m looking to collaborate on [genx](https://crates.io/crates/genx)
-- 💬 Ask me about **Vue, Django, Postgres, Nodejs, React, Go, Rust**
-- 📫 How to reach me **lakshay.sing1108@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/171bSjj3EQFHmXF9aTRBwE9gOyD1c1QqO/view?usp=sharing)
-- ⚡ Fun fact **I love watching SuperHero Movies (Marvel, DC, etc.) and I enjoy trekking in the Himalayas**
+- I am currently a Software Engineer at @Microsoft in the Azure Core Compute Organization
+- I did a Bachelors in Computer Science and Engineering from the Indian Institute of Technology (BHU), Varanasi
+- I have a keen interest in Open Source, Application Development, Network Security and Natural Language Processing.
+- I’m an Open Source Contributor at [Validating Lightning Signer](https://vls.tech/posts/vls-beta/)
+- I’m currently learning **Rust** and **Azure Kubernetes Service**
+- I’m looking to collaborate on [genx](https://crates.io/crates/genx)
+- Ask me about **Vue, Django, Postgres, Nodejs, React, Go, Rust**
+- How to reach me **lakshay.sing1108@gmail.com**
+- Know about my experiences [Resume](https://drive.google.com/file/d/171bSjj3EQFHmXF9aTRBwE9gOyD1c1QqO/view?usp=sharing)
+- Fun fact **I love watching SuperHero Movies (Marvel, DC, etc.)**
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
 
