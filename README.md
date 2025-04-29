@@ -6,11 +6,10 @@
 - I am currently a Student at Dr. A.P.J. Abdul Kalam Technical University.
 - I'm pursuing my Bachelors in Computer Science and Engineering from Shri Ram Murti Smarak College of Engineering and Technology (SRMS CET), Bareilly.
 - I have a keen interest in Open Source, Application Development, Network Security and Natural Language Processing.
-- I’m an Open Source Contributor at [Validating Lightning Signer](https://vls.tech/posts/vls-beta/).
+- I’m an Open Source Contributor at [GirlScript Summer of Code ](https://gssoc.girlscript.tech/).
 - I’m currently learning **Rust** and **Azure Kubernetes Service**.
-- I’m looking to collaborate on [genx](https://crates.io/crates/genx).
 - Ask me about **Vue, Django, Postgres, Nodejs, React, Go, Rust**.
-- Reach me at **navikaag20@gmail.com**.
+- Reach me at **navikaag24@outlook.com**.
 - Fun fact **I love watching SuperHero Movies (Marvel, DC, etc.)**.
 
 ### Find me around the web <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=king-11.king-11" />
